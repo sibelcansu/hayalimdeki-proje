@@ -1,2 +1,6 @@
 # HayalimdekiProje
+## Kurulum
+
 - madde
+
+## Yenilikler
